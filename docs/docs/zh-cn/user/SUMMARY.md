@@ -4,7 +4,7 @@
     * [1.2 需求](./preface/requirements.md)
     * [1.3 架构](./preface/architecture.md)
     * [1.4 用法](./preface/usage.md)
-* [2 快速启动](./quick-start.md)
+* [2 测试快速启动](./quick-start.md)
 * [3 依赖](./dependencies.md)
 * [4 成熟度](./maturity.md)
 * [5 配置](./configuration/index.md)

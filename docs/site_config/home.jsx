@@ -3,7 +3,7 @@ import React from 'react';
 export default {
   'zh-cn': {
     brand: {
-      brandName: 'Apache Dubbo',
+      brandName: 'Apache Dubbo-测试官方文档生成器',
       briefIntroduction: 'Apache Dubbo™ (incubating)是一款高性能Java RPC框架。',
       button: {
         text: '立即开始',
