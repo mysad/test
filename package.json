@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "start": "gulp",
-    "build": "rm -rf build && gulp build"
+    "build": "gulp build"
   },
   "devDependencies": {
     "babel-core": "6.23.1",
